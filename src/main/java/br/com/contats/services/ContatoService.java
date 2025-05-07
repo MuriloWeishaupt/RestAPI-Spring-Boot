@@ -1,8 +1,8 @@
-package br.com.fecaf.services;
+package br.com.contats.services;
 
 
-import br.com.fecaf.model.Contato;
-import br.com.fecaf.repository.ContatoRepository;
+import br.com.contats.model.Contato;
+import br.com.contats.repository.ContatoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,8 +1,8 @@
-package br.com.fecaf.controller;
+package br.com.contats.controller;
 
 
-import br.com.fecaf.model.Contato;
-import br.com.fecaf.services.ContatoService;
+import br.com.contats.model.Contato;
+import br.com.contats.services.ContatoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

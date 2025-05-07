@@ -1,6 +1,6 @@
-package br.com.fecaf.repository;
+package br.com.contats.repository;
 
-import br.com.fecaf.model.Contato;
+import br.com.contats.model.Contato;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 //Implementa métodos CRUD

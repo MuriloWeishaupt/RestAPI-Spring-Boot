@@ -1,4 +1,4 @@
-package br.com.fecaf.model;
+package br.com.contats.model;
 
 
 import jakarta.persistence.*;

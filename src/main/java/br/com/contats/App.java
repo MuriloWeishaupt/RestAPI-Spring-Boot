@@ -1,4 +1,4 @@
-package br.com.fecaf;
+package br.com.contats;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
